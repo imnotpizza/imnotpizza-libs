@@ -1,6 +1,6 @@
 /**
  * @file Icons/index.tsx
- * @author liam / liam@o2pluss.com
+ * @author liam / liam@imnotpizzalib.com
  * @description 공용 아이콘 패키지 컴포넌트-round type 아이콘
  */
 

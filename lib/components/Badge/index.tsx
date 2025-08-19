@@ -1,6 +1,6 @@
 /**
  * @file: Badge/index.tsx
- * @author: chad / chad@o2pluss.com
+ * @author: chad / chad@imnotpizzalib.com
  * @since: 2024.07.02 ~
  * @description: Badge 컴포넌트
  */

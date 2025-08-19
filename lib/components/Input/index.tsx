@@ -1,6 +1,6 @@
 /**
  * @file: Input/index.tsx
- * @author: chad / chad@o2pluss.com
+ * @author: chad / chad@imnotpizzalib.com
  * @since: 2024.02.07 ~
  * @description: input 컴포넌트
  */

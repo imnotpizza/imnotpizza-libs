@@ -1,6 +1,6 @@
 /**
  * @file: InfiniteScroll.tsx
- * @author: liam / liam@o2pluss.com
+ * @author: liam / liam@imnotpizzalib.com
  * @since: 2024.12.13
  * @description: 무한스크롤 wrapper 컴포넌트
  */

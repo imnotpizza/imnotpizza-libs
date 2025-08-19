@@ -1,6 +1,6 @@
 /**
  * @file: Modal.tsx
- * @author: liam / liam@o2pluss.com
+ * @author: liam / liam@imnotpizzalib.com
  * @since: 2024.02.21 ~
  * @description: 모달창+모달 레이아웃 UI
  */

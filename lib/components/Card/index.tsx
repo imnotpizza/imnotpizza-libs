@@ -1,6 +1,6 @@
 /**
  * @file: Card.tsx
- * @author: liam / liam@o2pluss.com
+ * @author: liam / liam@imnotpizzalib.com
  * @since: 2024.02.21 ~
  * @description: Card ui
  */

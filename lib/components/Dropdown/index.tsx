@@ -1,6 +1,6 @@
 /**
  * @file Dropdown/index.tsx
- * @author liam / liam@o2pluss.com
+ * @author liam / liam@imnotpizzalib.com
  * @description Dropdown 컴포넌트
  */
 import React, { useState } from 'react';

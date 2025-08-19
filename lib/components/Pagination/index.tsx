@@ -1,6 +1,6 @@
 /**
  * @file: pagination/index.tsx
- * @author: chad / chad@o2pluss.com
+ * @author: chad / chad@imnotpizzalib.com
  * @since: 2024.02.13 ~
  * @description: page indicator 컴포넌트
  */

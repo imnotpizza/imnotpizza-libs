@@ -74,7 +74,7 @@ export default defineConfig({
          * tree-shaking 적용위해 추가
          * https://rollupjs.org/configuration-options/#output-preservemodules
          */
-        preserveModules: true,
+        preserveModules: false,
         plugins: [
           typescriptPlugin({
             tsconfig: './tsconfig.json',

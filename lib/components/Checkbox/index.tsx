@@ -1,6 +1,6 @@
 /**
  * @file Checkbox/index.tsx
- * @author liam / liam@o2pluss.com
+ * @author liam / liam@imnotpizzalib.com
  * @description 체크박스 컴포넌트
  */
 

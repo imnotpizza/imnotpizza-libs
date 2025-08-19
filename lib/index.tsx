@@ -1,69 +1,14 @@
-import Checkbox from '@/components/Checkbox';
-import RadioButton from '@/components/RadioButton';
-import Chip from '@/components/Chip';
-import Button from './components/Button';
-import { Dropdown, MultipleSelectDropdown } from './components/Dropdown';
-import Input from './components/Input';
-import Pagination from './components/Pagination';
-import Card from '@/components/Card';
-import Layout from '@/components/Layout';
-import Table, { ITableHead } from '@/components/Table';
-import Modal from '@/components/Modal';
-import Spinner from '@/components/Spinner';
-import DatePicker from '@/components/DatePicker';
-import IconButton from './components/IconButton/index.jsx';
-import Tag from '@/components/Tag/index.jsx';
-import useInfiniteScroll, {
-  InfiniteScrollWrapper,
-} from './components/InfiniteScroll/index.jsx';
-import useSnackbarToast from './hooks/useSnackbarToast.jsx';
+import ODSCheckbox from '@/components/Checkbox';
+import ODSRadioButton from '@/components/RadioButton';
+import ODSChip from '@/components/Chip';
+import ODSButton from './components/Button';
 import * as Icons from './components/Icons';
-import Dialog, {
-  IDialogProps,
-  useDialog,
-  dialogStore,
-  openExternalDialog,
-  closeExternalDialog,
-  DialogProvider,
-} from './components/Dialog/index.jsx';
-import useModal from './hooks/useModal.jsx';
 
-/**
- * component exports
- */
-export {
-  Checkbox,
-  Chip,
-  Dropdown,
-  MultipleSelectDropdown,
-  Input,
-  Pagination,
-  RadioButton,
-  Card,
-  Layout,
-  Table,
-  Modal,
-  DatePicker,
-  Button,
-  Tag,
-  Spinner,
-  InfiniteScrollWrapper,
-  Dialog,
-  DialogProvider,
-  IconButton,
-  useSnackbarToast,
-  useModal,
-  useDialog,
-  useInfiniteScroll,
-  dialogStore,
-  openExternalDialog,
-  closeExternalDialog,
-};
+export const Checkbox = ODSCheckbox;
+export const RadioButton = ODSRadioButton;
+export const Chip = ODSChip;
+export const Button = ODSButton;
 
-/**
- * type exports
- */
-export type { ITableHead, IDialogProps };
 /**
  * icon packages
  * TODO: export방식 개선

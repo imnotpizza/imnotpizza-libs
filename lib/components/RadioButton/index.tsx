@@ -1,6 +1,6 @@
 /**
  * @file RadioButton/index.tsx
- * @author liam / liam@o2pluss.com
+ * @author liam / liam@imnotpizzalib.com
  * @description 라디오버튼 컴포넌트
  */
 

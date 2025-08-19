@@ -1,6 +1,6 @@
 /**
  * @file: Button/index.tsx
- * @author: chad / chad@o2pluss.com
+ * @author: chad / chad@imnotpizzalib.com
  * @since: 2024.02.06 ~
  * @description: 버튼 컴포넌트
  */

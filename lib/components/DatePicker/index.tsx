@@ -1,6 +1,6 @@
 /**
  * @file: DatePicker/index.tsx
- * @author: chad / chad@o2pluss.com
+ * @author: chad / chad@imnotpizzalib.com
  * @since: 2024.06.24 ~
  * @description: 달력 컴포넌트
  */

@@ -2,7 +2,7 @@
 
 /**
  * @file Snackbar/index.tsx
- * @author liam / liam@o2pluss.com
+ * @author liam / liam@imnotpizzalib.com
  * @description Snackbar 컴포넌트
  */
 import classNames from 'classnames';

@@ -1,6 +1,6 @@
 /**
  * @file: Table.tsx
- * @author: liam / liam@o2pluss.com
+ * @author: liam / liam@imnotpizzalib.com
  * @since: 2024.02.22 ~
  * @description: 테이블
  */

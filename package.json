@@ -1,15 +1,14 @@
 {
-  "name": "@o2pluss/o2pluss-design-system",
+  "name": "@imnotpizza/imnotpizza-libs",
   "version": "2.4.2",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/o2pluss/o2pluss-design-system.git"
+    "url": "git+https://github.com/imnotpizza/imnotpizza-libs"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "homepage": "https://github.com/o2pluss/o2pluss-design-system",
   "sideEffects": false,
   "author": {
     "name": "liam-koh"
@@ -30,7 +29,7 @@
   "files": [
     "dist"
   ],
-  "description": "o2pluss design system",
+  "description": "imnotpizza lib",
   "license": "MIT",
   "scripts": {
     "build": "tsc --p ./tsconfig.json && vite build",
@@ -112,8 +111,5 @@
     "react": "^18.2.0",
     "react-datepicker": "^7.0.0",
     "react-dom": "^18.2.0"
-  },
-  "bugs": {
-    "url": "https://github.com/o2pluss/o2pluss-design-system/issues"
   }
 }
