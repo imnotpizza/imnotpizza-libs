@@ -4,7 +4,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imnotpizza/imnotpizza-libs"
+    "url": "git+https://github.com/imnotpizza/imnotpizza-libs.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
