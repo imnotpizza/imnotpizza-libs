@@ -23,4 +23,4 @@ jobs:
       - run: yarn build
       - run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{secrets.IMNOTPIZZA_LIB_AUTH_TOKEN}}
+          NODE_AUTH_TOKEN: ${{secrets.IMNOTPIZZA_LIBS_TOKEN}}
